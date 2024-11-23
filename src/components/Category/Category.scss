@@ -1,0 +1,13 @@
+.category__wrapper{
+display: grid;
+gap: 20px;
+grid-template-columns: repeat(4, 1fr);
+margin-top: 40px;
+}
+
+
+.category{
+    padding: 50px 0;
+    
+}
+
